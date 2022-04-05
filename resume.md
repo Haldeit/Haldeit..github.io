@@ -2,9 +2,12 @@
 
 haoyaz5@uw.edu
 
+
 # Summary
 
-Peterrr
+My name is Peter. I am a third year student studying at UW.
+
+![UWlogo](/uwpic.jpeg)
 
 # Work Experience (only last 10 years)
 
@@ -21,4 +24,4 @@ Summary of your role
 
 
 
-[University 1]: http://www.univ1.edu
+[UW]: http://www.uw.edu
